@@ -1,4 +1,5 @@
 /txt
+/data
 /**/*.txt
 /**/*.bak
 /**/*.keyword
@@ -6,12 +7,9 @@
 /**/*.pyc
 /**/*.tar
 /**/*.tar.gz
-*.txt
-*.dict
 /**/*.part*
 /**/*.zip*
 /**/*.pic*
 /**/*.idx*
 /**/*.log*
-
 *~
